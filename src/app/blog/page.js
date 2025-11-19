@@ -1,6 +1,4 @@
 
-
-
 export default function BlogPage() {
   return (
     <div className="max-w-4xl mx-auto p-6">
@@ -59,16 +57,9 @@ export default function BlogPage() {
 
         </li>
       </ul>
-<div className="galleryItem" tabIndex={0}>
-  <img
-    src="/images/therapy-concepts-blog.webp"
-    alt="Психотерапија"
-    className="galleryImg"
-  />
-  <div className="caption">
-    <h4>PRIRODA</h4>
+
   </div>
-</div>
-    </div>
+
+  
   );
 }
