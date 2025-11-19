@@ -9,10 +9,7 @@ export default function BlogPage() {
       </h1>
 
       <div className="flex flex-col md:flex-row gap-8 items-center mb-12">
-        <img src="/images/therapy-concepts-blog.webp"
-          alt="Психотерапија"
-          className="rounded-lg shadow-lg max-w-full md:max-w-md animate-fadeIn"
-        />
+       
         <p className="text-lg leading-relaxed">
           Психотерапија је важан процес који помаже људима да разумеју своје емоције, 
           разреше личне проблеме и пронађу нове начине за бољи живот. На овом блогу ћемо 
@@ -59,10 +56,7 @@ export default function BlogPage() {
           разреше личне проблеме и пронађу нове начине за бољи живот. На овом блогу ћемо 
           писати о различитим техникама, саветима и искуствима из света терапије.
         </p>
-        
-        <img src="/images/therapy-concepts-blog.webp"
-          alt="Психотерапија"className=" container-image"
-        />
+
         </li>
       </ul>
 <div className="galleryItem" tabIndex={0}>
